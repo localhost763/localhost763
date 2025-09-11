@@ -34,8 +34,3 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Cobalt_Strike_logo.png" title="Cobalt Strike" alt="Cobalt Strike" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/HavocFramework/Havoc/main/media/logo.png" title="Havoc C2" alt="Havoc" width="40" height="40"/>&nbsp;
 </div>
-  
-       
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=unniznd&theme=dark&background=000000)](https://git.io/streak-stats)                                                                                                                                                                                                                                                                                                                                                                                                   
- ![Aanand S GitHub stats](https://github-readme-stats.vercel.app/api?username=unniznd&show_icons=true&theme=radical)

@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:DC143C&height=300&section=header&text=JAY%20KARIA&fontSize=70&fontColor=fff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=3&desc=◈%20WEB%20VAPT%20SPECIALIST%20◈%20RED%20TEAM%20OPERATOR%20◈%20SECURITY%20RESEARCHER%20◈&descSize=18&descAlign=50&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=JAY%20KARIA&fontSize=70&fontColor=fff&animation=fadeIn&fontAlign=50&stroke=000000&strokeWidth=2&desc=◈%20WEB%20VAPT%20SPECIALIST%20◈%20RED%20TEAM%20OPERATOR%20◈%20SECURITY%20RESEARCHER%20◈&descSize=18&descAlign=50&descAlignY=75" />
 
 <br/>
 
